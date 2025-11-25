@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints/
+notebooks/.cache.sqlite
+
+# Data files (too large for GitHub)
+*.csv
+data/*.csv
+data/*.xlsx
+
+# Model files (too large for GitHub)  
+*.pkl
+*.pickle
+model/*.pkl
+model/*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Other
+ai-dynamic-pricing-github/
+app/

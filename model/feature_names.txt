@@ -1,0 +1,23 @@
+hour_of_day
+Weekdaysort
+Monthsort
+is_morning
+is_afternoon
+is_night
+is_peak_hour
+is_morning_rush
+is_evening_slow
+is_weekend
+is_monday
+is_friday
+is_premium_product
+weekday_morning_rush
+weekend_afternoon
+coffee_Americano
+coffee_Americano with Milk
+coffee_Cappuccino
+coffee_Cocoa
+coffee_Cortado
+coffee_Espresso
+coffee_Hot Chocolate
+coffee_Latte
