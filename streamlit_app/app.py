@@ -180,7 +180,7 @@ def check_ethics(base_price, dynamic_price, adjustment_pct):
 # HEADER
 # ============================================================================
 st.markdown('<div class="main-header">☕ AI Dynamic Pricing for UK Coffee Shops</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-header">Machine learning-powered pricing delivering 16% margin lift | Built by Aiir</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-header">Machine learning-powered pricing delivering 16% margin lift | Built by Osaheni</div>', unsafe_allow_html=True)
 
 col1, col2, col3 = st.columns([1, 1, 1])
 with col1:
@@ -491,7 +491,7 @@ st.markdown("---")
 
 st.markdown("""
 <div style="text-align: center; color: #64748B; padding: 2rem 0;">
-    <p><strong>Built by Aiir</strong> | AI Product Manager Portfolio Project</p>
+    <p><strong>Built by Osaheni</strong> | AI Product Manager Portfolio Project</p>
     <p style="font-size: 0.9rem;">Tech Stack: Python • XGBoost • SHAP • Optuna • Streamlit • Open-Meteo API</p>
     <p style="font-size: 0.85rem;">Last Updated: November 2025</p>
 </div>

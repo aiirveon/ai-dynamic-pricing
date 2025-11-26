@@ -1,8 +1,8 @@
 # Product Requirements Document (PRD)
 ## AI Dynamic Pricing for UK Coffee Shops
 
-**Author:** Aiir Obaloluwa  
-**Date:** November 2024  
+**Author:** Ogbebor Osaheni  
+**Date:** November 2025  
 **Status:** Portfolio Project → Production-Ready Concept  
 **Target Market:** UK Independent Coffee Shops (500-5,000 transactions/month)
 
@@ -286,7 +286,7 @@ An AI pricing engine that runs in the background, recommending optimal prices ba
 
 ---
 
-**Document Owner:** Aiir Obaloluwa  
-**Last Updated:** November 26, 2024  
+**Document Owner:** Ogbebor Osaheni  
+**Last Updated:** November 26, 2025  
 **Review Cycle:** Monthly (or as product evolves)  
 **Stakeholders:** Product, Engineering, Finance, Legal, Customer Success
